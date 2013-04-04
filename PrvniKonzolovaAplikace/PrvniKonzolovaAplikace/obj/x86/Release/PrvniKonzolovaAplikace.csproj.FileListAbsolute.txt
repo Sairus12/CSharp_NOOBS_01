@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\C#_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\bin\Release\PrvniKonzolovaAplikace.exe
+C:\Users\Hanys\Documents\GitHub\C#_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\bin\Release\PrvniKonzolovaAplikace.pdb
+C:\Users\Hanys\Documents\GitHub\C#_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\C#_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\obj\x86\Release\PrvniKonzolovaAplikace.exe
+C:\Users\Hanys\Documents\GitHub\C#_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\obj\x86\Release\PrvniKonzolovaAplikace.pdb

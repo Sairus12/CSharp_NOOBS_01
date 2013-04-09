@@ -5,3 +5,6 @@ C:\Users\Hanys\Documents\GitHub\C#_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolov
 C:\Users\Hanys\Documents\GitHub\C#_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\obj\x86\Debug\PrvniKonzolovaAplikace.pdb
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\obj\x86\Debug\PrvniKonzolovaAplikace.exe
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\obj\x86\Debug\PrvniKonzolovaAplikace.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\bin\Debug\PrvniKonzolovaAplikace.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\bin\Debug\PrvniKonzolovaAplikace.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PrvniKonzolovaAplikace\PrvniKonzolovaAplikace\obj\x86\Debug\ResolveAssemblyReference.cache

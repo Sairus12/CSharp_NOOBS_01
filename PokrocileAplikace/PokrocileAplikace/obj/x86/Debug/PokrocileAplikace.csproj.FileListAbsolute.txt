@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\bin\Debug\PokrocileAplikace.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\bin\Debug\PokrocileAplikace.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\PokrocileAplikace.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\PokrocileAplikace.pdb

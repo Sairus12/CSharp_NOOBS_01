@@ -63,6 +63,7 @@ namespace PokrocileAplikace
                 Console.Write("Hele, tohle není simpson!");
             */
 
+            /*
             Console.WriteLine("Vítej v počítátoru průměru tvých známek. Kolik známek budeš zadávat? ");
             int pocet = int.Parse(Console.ReadLine());
             int[] znamka = new int[pocet];
@@ -72,6 +73,9 @@ namespace PokrocileAplikace
                 znamka[i] = int.Parse(Console.ReadLine());
             }
             Console.Write("Průměr známek je: {0}", znamka.Average());
+             */
+
+            Console.Write();
 
 
             

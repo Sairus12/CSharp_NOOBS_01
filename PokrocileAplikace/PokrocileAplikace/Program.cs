@@ -55,7 +55,13 @@ namespace PokrocileAplikace
             string sim;
             Console.Write("Zadej jméno svého oblíbeného simpsona: ");
             sim = Console.ReadLine();
-            Array.Sort(simpsonovi);
+            sim = sim.ToLower();
+            for (int i = 0; i < simpsonovi.Length; i++)
+            {
+                simpsonovi[i] = simpsonovi[i].ToLower();
+            }
+
+                Array.Sort(simpsonovi);
             int pozice = Array.IndexOf(simpsonovi, sim);
             if (pozice >= 0)
                 Console.Write("Tohle je {0}. simpson v pořadí.",pozice + 1);
@@ -75,10 +81,74 @@ namespace PokrocileAplikace
             Console.Write("Průměr známek je: {0}", znamka.Average());
              */
 
-            Console.Write();
+            /*
+            string s = "Programátor se zasekne ve sprše, protože instrukce na šampónu byly: Namydlit, omýt, opakovat.";
+            Console.WriteLine(s);
+            s = s.ToLower();
+
+            int samohlasky = 0;
+            int souhlasky = 0;
+
+            string samo = "aeiouyáéěíóúůý";
+            string sou = "bcčdďfghjklmnpqrřsštťvwxzž";
 
 
-            
+            foreach (char c in s)
+            {
+                if (samo.Contains(c))
+                    samohlasky++;
+                else
+                    if (sou.Contains(c))
+                    souhlasky++;
+            }
+
+            Console.Write("Počet samohlasek {0}\nPočet souhlasek {1}\nPočet nepísmen {2}", souhlasky, samohlasky, s.Length - (souhlasky + samohlasky));
+            */
+
+            /********************** Vložení na určitou pozici ************************
+            Console.WriteLine("Já bych všechny ty internety zakázala.");
+            Console.WriteLine("Já bych všechny ty internety zakázala.".Insert(29,"ne"));
+            */
+
+            /********************** Odstranění od určité pozice *********************
+            Console.WriteLine("Kdo se směje naposled, ten je admin.");
+            Console.WriteLine("Kdo se směje naposled, ten je admin.".Remove(12, 9));
+            */
+
+            /********************** Vytvoří substring (vytáhne něco ze stringu) od určité pozice ***********************
+            Console.WriteLine("Kdo se směje naposled, ten je admin.");
+            Console.WriteLine("Kdo se směje naposled, ten je admin.".Substring(13,8));
+             */
+            /********************** Porovnává dva řetezce -1 - 1. před 2. (abecedně), 0 - shodné, 1 - 2. před 1. (abecedně) ***********************
+            Console.WriteLine("akát".CompareTo("blýskavice"));
+            */
+
+            /*
+            string s = ".. ... .-.. .- -. -.. ... --- ..-. -";
+            Console.WriteLine("Původní řetzec je {0}", s);
+
+            string zprava = "";
+
+            string abecedniZnaky = "abcdefghijklmnopqrstuvwxyz";
+            string[] morseovyZnaky = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....",
+                                        "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-",
+                                        "...-", ".--", "-..-", "-.--", "--.."};
+
+            string[] znaky = s.Split(' ');
+
+            foreach (string morseuvZnak in znaky)
+            {
+                char abecedniZnak = '?';
+                int index = Array.IndexOf(morseovyZnaky,morseuvZnak);
+                if (index >= 0)
+                    abecedniZnak = abecedniZnaky[index];
+                zprava += abecedniZnak;
+            }
+
+            Console.WriteLine("Dekodovany kod je {0}",zprava);
+             */
+
+
             Console.ReadKey();
 
         }

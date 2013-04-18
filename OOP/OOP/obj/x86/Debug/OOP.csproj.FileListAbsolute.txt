@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\OOP\OOP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\OOP\OOP\obj\x86\Debug\OOP.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\OOP\OOP\obj\x86\Debug\OOP.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\bin\Debug\Arena.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\bin\Debug\Arena.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Debug\Arena.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Debug\Arena.pdb

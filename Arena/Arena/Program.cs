@@ -18,6 +18,7 @@ namespace Arena
             Console.WriteLine(desetistena);
             */
 
+            /*
             Kostka sestistena = new Kostka();
             Kostka desetistena = new Kostka(10);
             Console.WriteLine(sestistena);
@@ -28,6 +29,9 @@ namespace Arena
             Console.WriteLine(desetistena);
             for (int i = 0; i < 10; i++)
                 Console.Write(desetistena.hod() + " ");
+
+             */
+
 
             int a = 56;
             Uzivatel u = new Uzivatel("Pepa", 56);

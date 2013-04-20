@@ -32,7 +32,7 @@ namespace Arena
 
              */
 
-
+            /*
             int a = 56;
             int b = 28;
             Uzivatel u = new Uzivatel("Jan Novák", 28);
@@ -49,7 +49,32 @@ namespace Arena
             // nulování
             v = null;
             Console.WriteLine("u: {0}\nv: {1}\n", u, v);
+             */
+
+            Test test = new Test();
+
+            /************** znaky ************
+ 
+            string zn;
+            zn = Console.ReadLine();
+            Console.WriteLine("{0}",test.znaky(zn[0]));
+             */
+
+            /************** sude ************
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("{0}",test.sude(x));
+             */
+
+            /************** interval *********
+            int d = int.Parse(Console.ReadLine());
+            int h = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine("{0}",test.interval(d,h,n));
+             */
+
+            test.interval(
             Console.ReadKey();
+            
         }
     }
 }

@@ -34,8 +34,22 @@ namespace Arena
 
 
             int a = 56;
-            Uzivatel u = new Uzivatel("Pepa", 56);
-                Console.ReadKey();
+            int b = 28;
+            Uzivatel u = new Uzivatel("Jan Novák", 28);
+            Uzivatel v = new Uzivatel("Josef Nový", 32);
+            Console.WriteLine("a: {0}\nb: {1}\nu: {2}\nv: {3}\n", a, b, u, v);
+            // přiřazování
+            a = b;
+            u = v;
+            Console.WriteLine("a: {0}\nb: {1}\nu: {2}\nv: {3}\n", a, b, u, v);
+            // změna
+            v.jmeno = "John Dee";
+            v.vek = 58;
+            Console.WriteLine("u: {0}\nv: {1}\n",u,v);
+            // nulování
+            v = null;
+            Console.WriteLine("u: {0}\nv: {1}\n", u, v);
+            Console.ReadKey();
         }
     }
 }

@@ -17,7 +17,7 @@ namespace Arena
         }
         public override string ToString()
         {
-            return (jmeno);
+            return (jmeno + " " + vek);
         }
     }
 }

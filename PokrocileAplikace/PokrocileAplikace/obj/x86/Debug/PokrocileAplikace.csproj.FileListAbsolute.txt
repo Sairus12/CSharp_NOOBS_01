@@ -3,3 +3,5 @@ C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplik
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\PokrocileAplikace.exe
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\PokrocileAplikace.pdb
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\PokrocileAplikace.exe
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\PokrocileAplikace\PokrocileAplikace\obj\x86\Debug\PokrocileAplikace.pdb

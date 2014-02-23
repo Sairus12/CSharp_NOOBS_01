@@ -1,0 +1,7 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Diar\Diar\bin\Debug\Diar.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Diar\Diar\bin\Debug\Diar.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Diar\Diar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Diar\Diar\obj\x86\Debug\Diar.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Diar\Diar\obj\x86\Debug\Diar.pdb
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\Diar\Diar\obj\x86\Debug\Diar.exe
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\Diar\Diar\obj\x86\Debug\Diar.pdb

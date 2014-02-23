@@ -51,28 +51,32 @@ namespace Arena
             Console.WriteLine("u: {0}\nv: {1}\n", u, v);
              */
 
-            Test test = new Test();
+            /*
+            Kostka kostka = new Kostka(10);
+            Bojovnik bojovnik = new Bojovnik("Sairus", 100, 20, 10, kostka);
 
-            /************** znaky ************
- 
-            string zn;
-            zn = Console.ReadLine();
-            Console.WriteLine("{0}",test.znaky(zn[0]));
+            Console.WriteLine("Bojovník: {0}", bojovnik);
+            Console.WriteLine("Naživu: {0}", bojovnik.Nazivu());
+            Console.WriteLine("Život: {0}", bojovnik.GrafickyZivot());
+
+            Bojovnik souper = new Bojovnik("eNNy", 60, 18, 15, kostka);
+            souper.Utoc(bojovnik);
+
+            Console.WriteLine(souper.VratPosledniZpravu());
+            Console.WriteLine(bojovnik.VratPosledniZpravu());
+
+            Console.WriteLine("Život: {0}",bojovnik.GrafickyZivot());
              */
 
-            /************** sude ************
-            int x = int.Parse(Console.ReadLine());
-            Console.WriteLine("{0}",test.sude(x));
-             */
+            // vytvoření objektů
+            Kostka kostka = new Kostka(10);
+            Bojovnik sairus = new Bojovnik("Sairus", 100, 20, 10, kostka);
+            Bojovnik enny = new Mag("eNNy", 60, 18, 15, kostka, 30, 45);
+            Arena arena = new Arena(sairus, enny, kostka);
+            // zapas
+            arena.Zapas();
+            
 
-            /************** interval *********
-            int d = int.Parse(Console.ReadLine());
-            int h = int.Parse(Console.ReadLine());
-            int n = int.Parse(Console.ReadLine());
-            Console.WriteLine("{0}",test.interval(d,h,n));
-             */
-
-            test.interval(
             Console.ReadKey();
             
         }

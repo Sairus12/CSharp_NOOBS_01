@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Kvadraticka\Kvadraticka\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Kvadraticka\Kvadraticka\bin\Debug\Kvadraticka.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Kvadraticka\Kvadraticka\bin\Debug\Kvadraticka.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Kvadraticka\Kvadraticka\obj\x86\Debug\Kvadraticka.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Kvadraticka\Kvadraticka\obj\x86\Debug\Kvadraticka.pdb

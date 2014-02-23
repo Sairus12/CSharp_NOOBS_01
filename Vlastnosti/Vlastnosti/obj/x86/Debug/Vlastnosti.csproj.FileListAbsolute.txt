@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Vlastnosti\Vlastnosti\bin\Debug\Vlastnosti.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Vlastnosti\Vlastnosti\bin\Debug\Vlastnosti.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Vlastnosti\Vlastnosti\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Vlastnosti\Vlastnosti\obj\x86\Debug\Vlastnosti.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Vlastnosti\Vlastnosti\obj\x86\Debug\Vlastnosti.pdb

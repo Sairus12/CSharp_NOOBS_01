@@ -114,6 +114,27 @@ namespace OOP
 
             }
             Console.WriteLine("\n\n\nDěkujeme za použití kalkulačky, naschledanou.\n\nAplikaci vypnete stisknutím libovolné klávesy.");
+
+
+            /************** znaky ************
+ 
+            string zn;
+            zn = Console.ReadLine();
+            Console.WriteLine("{0}",test.znaky(zn[0]));
+             */
+
+            /************** sude ************
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("{0}",test.sude(x));
+             */
+
+            /************** interval *********
+            int d = int.Parse(Console.ReadLine());
+            int h = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine("{0}",test.interval(d,h,n));
+             */
+
             Console.ReadKey();
         }
     }

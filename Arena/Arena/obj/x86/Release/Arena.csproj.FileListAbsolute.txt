@@ -1,0 +1,7 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\bin\Release\Arena.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\bin\Release\Arena.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Release\Arena.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Release\Arena.pdb
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Release\Arena.exe
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Release\Arena.pdb

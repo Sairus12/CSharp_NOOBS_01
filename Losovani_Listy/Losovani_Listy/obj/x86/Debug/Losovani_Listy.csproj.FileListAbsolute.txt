@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Losovani_Listy\Losovani_Listy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Losovani_Listy\Losovani_Listy\bin\Debug\Losovani_Listy.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Losovani_Listy\Losovani_Listy\bin\Debug\Losovani_Listy.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Losovani_Listy\Losovani_Listy\obj\x86\Debug\Losovani_Listy.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Losovani_Listy\Losovani_Listy\obj\x86\Debug\Losovani_Listy.pdb

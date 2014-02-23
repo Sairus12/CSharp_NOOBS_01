@@ -8,3 +8,5 @@ C:\Users\Herna\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Debug\Arena.
 C:\Users\Herna\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\bin\Debug\Arena.exe
 C:\Users\Herna\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\bin\Debug\Arena.pdb
 C:\Users\Herna\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Debug\Arena.csprojResolveAssemblyReference.cache
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Debug\Arena.exe
+\\HANYS-PC\Hanys\Documents\GitHub\CSharp_NOOBS_01\Arena\Arena\obj\x86\Debug\Arena.pdb

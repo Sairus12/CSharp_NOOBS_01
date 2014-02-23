@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\DatumACas\DatumACas\bin\Debug\DatumACas.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\DatumACas\DatumACas\bin\Debug\DatumACas.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\DatumACas\DatumACas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\DatumACas\DatumACas\obj\x86\Debug\DatumACas.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\DatumACas\DatumACas\obj\x86\Debug\DatumACas.pdb

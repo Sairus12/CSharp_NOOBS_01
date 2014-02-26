@@ -72,6 +72,32 @@ namespace Priklady
             garaz.Vypis();
             */
 
+            /*
+            Clovek karel = new Clovek("Karel Novák");
+            Clovek lenka = new Clovek("Lenka Nováková");
+            Pes azor = new Pes(1,"Azor");
+            karel.pes = azor;
+            lenka.pes = azor;
+            Console.WriteLine(azor);
+            // Zestárnutí psa
+            karel.pes.Zestarni();
+            lenka.pes.Zestarni();
+            // Kontrolní výpis psa
+            Console.WriteLine(azor);
+            */
+
+            Hra hra = new Hra();
+            string prikaz = "";
+
+            // Hlavní smyčka hry
+            while (prikaz.ToLower() != "konec")
+            {
+                Console.WriteLine(hra.VratAktualniLokaci());
+                Console.Write("Zadej příkaz: ");
+                prikaz = Console.ReadLine();
+                hra.Jdi(prikaz);
+            }
+
             Console.ReadKey();
         }
     }

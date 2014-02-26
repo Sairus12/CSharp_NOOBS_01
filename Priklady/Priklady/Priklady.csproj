@@ -42,11 +42,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Auto.cs" />
+    <Compile Include="Clovek.cs" />
     <Compile Include="Garaz.cs" />
     <Compile Include="GeneratorVet.cs" />
+    <Compile Include="Hra.cs" />
     <Compile Include="Kalkulacka.cs" />
     <Compile Include="Kamaradi.cs" />
+    <Compile Include="Lokace.cs" />
     <Compile Include="Nakladak.cs" />
+    <Compile Include="Pes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Unava.cs" />

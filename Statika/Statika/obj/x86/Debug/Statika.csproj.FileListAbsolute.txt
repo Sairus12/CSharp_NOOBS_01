@@ -1,0 +1,5 @@
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Statika\Statika\bin\Debug\Statika.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Statika\Statika\bin\Debug\Statika.pdb
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Statika\Statika\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Statika\Statika\obj\x86\Debug\Statika.exe
+C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Statika\Statika\obj\x86\Debug\Statika.pdb

@@ -72,7 +72,7 @@ namespace Priklady
             garaz.Vypis();
             */
 
-            /*
+            /* ------------------------ Psi
             Clovek karel = new Clovek("Karel Novák");
             Clovek lenka = new Clovek("Lenka Nováková");
             Pes azor = new Pes(1,"Azor");
@@ -86,10 +86,10 @@ namespace Priklady
             Console.WriteLine(azor);
             */
 
+            /* ------------------------ Hra
             Hra hra = new Hra();
             string prikaz = "";
 
-            // Hlavní smyčka hry
             while (prikaz.ToLower() != "konec")
             {
                 Console.WriteLine(hra.VratAktualniLokaci());
@@ -97,6 +97,8 @@ namespace Priklady
                 prikaz = Console.ReadLine();
                 hra.Jdi(prikaz);
             }
+            */
+
 
             Console.ReadKey();
         }

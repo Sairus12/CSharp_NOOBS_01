@@ -3,3 +3,5 @@ C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Priklady\Priklady\bin\Debug\Prik
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Priklady\Priklady\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Priklady\Priklady\obj\x86\Debug\Priklady.exe
 C:\Users\Hanys\Documents\GitHub\CSharp_NOOBS_01\Priklady\Priklady\obj\x86\Debug\Priklady.pdb
+C:\Users\Herna\Documents\GitHub\CSharp_NOOBS_01\Priklady\Priklady\obj\x86\Debug\Priklady.exe
+C:\Users\Herna\Documents\GitHub\CSharp_NOOBS_01\Priklady\Priklady\obj\x86\Debug\Priklady.pdb

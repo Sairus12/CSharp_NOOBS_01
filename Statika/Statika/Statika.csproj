@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{054BE5D1-57E3-4090-B9CA-49BED8D6E35E}</ProjectGuid>
+    <ProjectGuid>{AB8ABB79-09FA-41B3-BF9E-DCD7057FF33E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Priklady</RootNamespace>
-    <AssemblyName>Priklady</AssemblyName>
+    <RootNamespace>Statika</RootNamespace>
+    <AssemblyName>Statika</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,20 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Auto.cs" />
-    <Compile Include="Clovek.cs" />
-    <Compile Include="Garaz.cs" />
-    <Compile Include="GeneratorVet.cs" />
-    <Compile Include="Hra.cs" />
-    <Compile Include="Kalkulacka.cs" />
-    <Compile Include="Kamaradi.cs" />
-    <Compile Include="Lokace.cs" />
-    <Compile Include="Nakladak.cs" />
-    <Compile Include="Osoba.cs" />
-    <Compile Include="Pes.cs" />
+    <Compile Include="Kalendar.cs" />
+    <Compile Include="Nastaveni.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Unava.cs" />
+    <Compile Include="Uzivatel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -7,42 +7,29 @@ namespace Vlastnosti
 {
     class Student
     {
-        public string Jmeno { get; private set; }
-        public bool Muz { get; private set; }
-        public bool Plnolety { get; private set; }
-        private int vek;
+        public string jmeno;
+        public bool muz;
+        public int vek;
+        public bool plnolety;
 
         public Student(string jmeno, bool pohlavi, int vek)
         {
-            Jmeno = jmeno;
-            Muz = pohlavi;
+            this.jmeno = jmeno;
+            this.muz = pohlavi;
             this.vek = vek;
+            if (vek <= 18)
+                plnolety = false;
         }
 
         public override string ToString()
         {
             string jsemPlnolety = "jsem";
-            if (!Plnolety)
+            if (!plnolety)
                 jsemPlnolety = "nejsem";
             string pohlavi = "muž";
-            if (!Muz)
+            if (!muz)
                 pohlavi = "žena";
-            return String.Format("Jsem {0}, {1}.  Je mi {2}  let a {3} plnoletý.", Jmeno, pohlavi, vek, jsemPlnolety);
-        }
-                
-        public int Vek
-        {
-            get
-            {
-                return vek;
-            }
-            set
-            {
-                vek = value;
-                Plnolety = true;
-                if (vek < 18)
-                    Plnolety = false;
-            }
+            return String.Format("Jsem {0}, {1}. Je mi {2} let a {3} plnolety.", jmeno, pohlavi, vek, jsemPlnolety);
         }
     }
 }

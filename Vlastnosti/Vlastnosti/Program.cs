@@ -9,10 +9,7 @@ namespace Vlastnosti
     {
         static void Main(string[] args)
         {
-            Student student = new Student("Jan Tůma", true, 15);
-            student.Vek = 25;
-            student.Vek = 30;
-            Console.WriteLine(student.ToString());
+            
             Console.ReadKey();
         }
     }
